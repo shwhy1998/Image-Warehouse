@@ -36,3 +36,43 @@
 您必须在下载后的 24 小时内从您以任何形式存放或使用本仓库内容的任何硬件/软件/介质中完全删除本仓库内容
 
 您以任何形式阅读/使用/复制/修改了本仓库内容，则视为已接受此免责声明，请仔细阅读
+
+# Dsclaimer
+
+Relying on the public image bed used by Github
+
+This warehouse or the warehouse related to this warehouse, hereinafter referred to as this warehouse
+
+The manager of this warehouse or the warehouse related to this warehouse, hereinafter referred to as the manager of this warehouse
+
+Any personnel of this warehouse or warehouses related to this warehouse, hereinafter referred to as the staff of this warehouse
+
+Any content shared in this warehouse or warehouses related to this warehouse, hereinafter referred to as the content of this warehouse
+
+The contents of this warehouse are only used for testing and learning research, and are prohibited from being used for commercial purposes, and shall not be used for other purposes that violate the laws and regulations of countries/regions/organizations or related regulations. None of the warehouse personnel can guarantee its legality. Accuracy, completeness and validity, please judge by yourself according to the situation. Any public account and self-media are prohibited from reprinting and publishing in any form
+
+The domain name address information of the content of this warehouse can be obtained by anyone through developer tools, without reverse engineering or network attack, and does not constitute an intrusion into the computer system
+
+The warehouse personnel are not responsible for any problems with the content of this warehouse, including but not limited to any loss or damage caused by any errors in the content of this warehouse
+
+Any user who indirectly uses the content of this warehouse, including but not limited to establishing a VPS or disseminating it in violation of national laws or relevant regulations, the staff of this warehouse shall not be responsible for any privacy leakage or other consequences arising therefrom Responsible
+
+Please do not use the contents of this warehouse for commercial or illegal purposes, otherwise you will be responsible for the consequences
+
+If any unit or individual thinks that the content of this warehouse may be suspected of violating its rights, it should notify in time and provide identification and proof of ownership. The warehouse manager will delete the relevant content of this warehouse after receiving the certification documents
+
+Anyone who views the content of this warehouse in any way or users who directly or indirectly use the content of this warehouse should read this statement carefully. The warehouse manager reserves the right to change or supplement this disclaimer at any time. Once you use/copy/modify the contents of this warehouse, you are deemed to have accepted this disclaimer
+
+The third-party hardware, software, etc. involved in the content of this warehouse have no direct or indirect relationship with the content of this warehouse. The contents of this warehouse only objectively describe the deployment and use process, and do not mean that it supports the use of any third-party hardware and software. All consequences arising from the use of any third-party hardware and software shall be borne by the individual or organization using them, and have nothing to do with the content of this warehouse
+
+All source codes based on the content of this warehouse, any modification, is the spontaneous behavior of other individuals or organizations, and has no direct or indirect relationship with the content of this warehouse, and all consequences have nothing to do with the content of this warehouse and the warehouse personnel
+
+The manager of this warehouse reserves the right to supplement or change the disclaimer at any time. Individuals or organizations who directly or indirectly use the content of this warehouse are deemed to have accepted the disclaimer of the content shared by this warehouse
+
+Please do not use the contents of this warehouse within the territory of the People's Republic of China
+
+All individuals and organizations that directly or indirectly use the contents of this repository should complete their study and research within 24 hours and delete the contents of this repository in time. If there is a need for the functions of the content of this warehouse, you should develop related functions yourself
+
+You must completely remove the contents of this repository from any hardware/software/media on which you store or use them in any form within 24 hours of downloading
+
+If you read/use/copy/modify the contents of this warehouse in any form, you are deemed to have accepted this disclaimer, please read carefully
